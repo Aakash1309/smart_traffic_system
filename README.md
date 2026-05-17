@@ -1,1 +1,1 @@
-# smart_traffic_syatem
+# smart_traffic_system
