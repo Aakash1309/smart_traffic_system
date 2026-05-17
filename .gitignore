@@ -1,0 +1,38 @@
+# Virtual environment
+traffic_env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & secrets
+.env
+*.env
+
+# Model weights (large files)
+models/*.pt
+models/*.pkl
+*.weights
+
+# Data & videos (large)
+data/videos/
+data/audio/
+
+# Database
+*.db
+*.sqlite
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
